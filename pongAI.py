@@ -8,7 +8,7 @@ BORDER=20
 VELOCITY=15
 FRAMERATE=35
 
-#Define my classes
+#Define classes
 class Ball:
 
     RADIUS = 15
